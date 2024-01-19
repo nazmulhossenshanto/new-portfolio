@@ -1,0 +1,235 @@
+header {
+  background-image: url("./images/Banner\ Image.png");
+  /* background-size: contain; */
+  height: 600px;
+  width: 1200px;
+  margin: auto;
+  background-repeat: no-repeat;
+  background-position: center;
+  text-align: center;
+  color: #fff;
+}
+#head-title {
+  color: #fff;
+  text-align: center;
+  font-size: 38px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+}
+.div-title {
+  text-align: center;
+  font-size: 60px;
+  padding-top: 0px;
+  justify-content: center;
+}
+
+nav {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  flex-direction: column;
+}
+
+main {
+  /* Add your main content styles here */
+  padding: 20px;
+}
+
+footer {
+  /* Add your footer styles here */
+  background-color: #333;
+  color: #fff;
+  text-align: center;
+  padding: 10px;
+}
+#offer {
+  margin-top: 0px;
+  color: #f00;
+  text-align: center;
+  font-size: 88px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+}
+#our-deal {
+  color: #f00;
+  text-align: center;
+  font-size: 12px;
+}
+#category {
+  color: #070211;
+  text-align: center;
+  font-family: Inter;
+  font-size: 38px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+}
+.new-year-pic {
+  margin-left: 250px;
+}
+.section-mid {
+  background-image: url("./images/Vectorrr.png");
+  height: 600px;
+}
+.wel-come {
+  color: white;
+  padding-left: 150px;
+  font-size: 80px;
+}
+#wlcm {
+  padding-top: 40px;
+}
+#pera-graph {
+  color: aliceblue;
+
+  padding-left: 150px;
+  padding-right: 300px;
+
+  padding-top: 0px;
+}
+#joinn {
+  padding: 140px;
+  color: #2514c4;
+}
+.banner {
+  display: flex;
+  padding-top: 0px;
+}
+.new-section {
+  width: 1320px;
+  height: 400px;
+  flex-shrink: 0;
+  background-color: rgba(156, 101, 90, 0.062);
+  justify-content: center;
+  text-align: center;
+  align-items: center;
+  font-size: 30px;
+  border-radius: 20px;
+}
+.text-primary {
+  color: #f00;
+}
+.btn{
+  background-color: #f00;
+  color: #fff;
+  font-size: 40px;
+  border-radius: 10px;
+}
+.container{
+   
+}
+.left-text{
+  text-align: left;
+}
+.rigt-text{
+  text-align: right;
+}
+#cntrl{
+   padding-left: 35%;
+   padding-top: 20px;
+   padding-bottom: 100px;
+}
+#year{
+  color: #f00;
+}
+#ofr{
+  color: #f00;
+}
+#cm-soon{
+  font-size: 40px;
+  }
+#pera-graf{
+  padding-right: 700px;
+}
+#function{
+  text-align: center;
+  color: rgb(0, 3, 3);
+}
+#sale-text{
+  color: #070211;
+ text-align: center;
+font-size: 72px;
+font-style: normal;
+font-weight: 900;
+line-height: normal;
+}
+#holi{
+  color: #f00;
+  padding-top: 0px;
+}
+.group-img{
+  display:block;
+}
+.btm-image{
+  height: 100px;
+  width: 1235px;
+}
+#left-topic{
+  font-size: 10px;
+  color: #f00;
+}
+#our-portfolio{
+  font-size: 20px;
+}
+#dolor{
+  padding-right: 50%;
+}
+.six-img{
+  flex-shrink: 0;
+  border-radius: 16px;
+}
+.bottom-section{
+  width: 1320px;
+height: 616px;
+flex-shrink: 0;
+border-radius: 16px;
+background: rgba(255, 0, 0, 0.05);
+}
+#email-img{
+  padding-top: 50px;
+  padding-left: 550px;
+}
+#bottom-title{
+  font-size: 48px;
+  padding-left: 450px;
+}
+#bottom-text{
+  padding-left:400px;
+  padding-right:400px;
+}
+#sub-btn{
+  background-color: #f00;
+  color: #fff;
+}
+.btm-form{
+  text-align: center;
+}
+.footer-section{
+  width: 1600px;
+height: 609px;
+flex-shrink: 0;
+  /* height: 400px;
+  width: 400px;
+  background-color: #333; */
+}
+.footer-text{
+  padding-top: 80px;
+  padding-left: 200px;
+  padding-right: 1200px;
+}
+.footer-left{
+  color: aliceblue;
+  padding-top: 300px;
+  padding-right: 1100px;
+}
+#last-text{
+  margin-left: 600px;
+  padding-right: 20px;
+}
+.four-images{
+  position: relative;
+  justify-content: center;
+}
